@@ -6,5 +6,5 @@ git init
 git add .
 git commit -m "İlk yükleme"
 git branch -M main
-git remote add origin https://github.com/KULLANICI_ADIN/ai-uygulama.git
+git remote add origin https://github.com/bybeyazz/ai-uygulama/blob/main/git
 git push -u origin main
